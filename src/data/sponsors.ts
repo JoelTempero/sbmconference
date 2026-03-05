@@ -1,61 +1,59 @@
 import type { Sponsor } from '../types'
 
-const UPLOADS_BASE = 'https://www.sbmconference.org.nz/uploads/1/2/0/6/120656982'
-
 export const sponsors: Sponsor[] = [
   // Gold Business Partners
   {
     name: 'Fujifilm',
-    image: `${UPLOADS_BASE}/published/fujifilm-basic.jpg?1762144552`,
+    image: '/images/sponsors/fujifilm.jpg',
     link: 'https://www-fbnz.fujifilm.com/',
     tier: 'gold',
   },
   {
     name: 'Furnware',
-    image: `${UPLOADS_BASE}/editor/furnware-rgb-teal-1_1.jpg?1552268261`,
+    image: '/images/sponsors/furnware.jpg',
     link: 'https://www.furnware.co.nz/',
     tier: 'gold',
   },
   {
     name: 'OfficeMax',
-    image: `${UPLOADS_BASE}/editor/office-max-logo-4c-large-1_1.jpg?1552268265`,
+    image: '/images/sponsors/officemax.jpg',
     link: 'https://www.officemax.co.nz/',
     tier: 'gold',
   },
   {
     name: 'Programmed',
-    image: `${UPLOADS_BASE}/editor/programmed-horizonal-logo_1.png?1552268269`,
+    image: '/images/sponsors/programmed.png',
     link: 'https://programmed.co.nz/',
     tier: 'gold',
   },
   {
     name: 'ASB',
-    image: `${UPLOADS_BASE}/editor/asb-logo-y-on-b-hr_1.jpg?1552268273`,
+    image: '/images/sponsors/asb.jpg',
     link: 'https://www.asb.co.nz/',
     tier: 'gold',
   },
   {
     name: 'New Era Technology',
-    image: `${UPLOADS_BASE}/editor/new-era-technology-primary-pms-4x-100.jpg?1645749438`,
-    link: 'http://newerait.co.nz/',
+    image: '/images/sponsors/new-era.jpg',
+    link: 'https://newerait.co.nz/',
     tier: 'gold',
   },
   // Silver Sponsors
   {
     name: 'Uniform Group',
-    image: `${UPLOADS_BASE}/editor/uniform-group-stacked-blk-trans.png?1708288421`,
-    link: 'http://uniformgroup.co.nz/',
+    image: '/images/sponsors/uniform-group.png',
+    link: 'https://uniformgroup.co.nz/',
     tier: 'silver',
   },
   {
     name: 'Kindo',
-    image: `${UPLOADS_BASE}/published/2025-kindo-logo.png?1740618569`,
-    link: 'http://kindo.co.nz/',
+    image: '/images/sponsors/kindo.png',
+    link: 'https://kindo.co.nz/',
     tier: 'silver',
   },
   {
     name: 'Alsco',
-    image: `${UPLOADS_BASE}/published/alsco-new-logo.png?1733453274`,
+    image: '/images/sponsors/alsco.png',
     link: 'https://www.alsco.co.nz/industries/education/',
     tier: 'silver',
   },

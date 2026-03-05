@@ -120,7 +120,7 @@ export default function Social() {
                   <p className="text-lg leading-relaxed">
                     Find out what the city has to offer on this{' '}
                     <a
-                      href="https://www.sbmconference.org.nz/uploads/1/2/0/6/120656982/wellingtonnz-visitor-guide.pdf"
+                      href="/docs/wellington-visitor-guide.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-secondary hover:text-accent underline font-semibold"
