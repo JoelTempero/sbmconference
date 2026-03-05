@@ -1,6 +1,6 @@
 import type { Speaker } from '../types'
 
-const UPLOADS_BASE = 'http://www.sbmconference.org.nz/uploads/1/2/0/6/120656982'
+const UPLOADS_BASE = 'https://www.sbmconference.org.nz/uploads/1/2/0/6/120656982'
 
 export const speakers: Speaker[] = [
   {

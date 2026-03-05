@@ -169,7 +169,7 @@ export default function Registration() {
               <p className="text-sm leading-relaxed">
                 Eligible members may apply for reimbursement for up to $1,200.00 (excl GST) to assist in attending the SBM annual conference - click here for the{' '}
                 <a
-                  href="http://www.sbmconference.org.nz/uploads/1/2/0/6/120656982/conference_subsidy_application_2025.pdf"
+                  href="https://www.sbmconference.org.nz/uploads/1/2/0/6/120656982/conference_subsidy_application_2025.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-secondary hover:text-accent underline"
@@ -248,7 +248,7 @@ export default function Registration() {
                 <p className="text-gray-700">
                   Nothing here changes your rights under New Zealand law. For the full legal version, please read our{' '}
                   <a
-                    href="http://www.sbmconference.org.nz/uploads/1/2/0/6/120656982/cancellation_transfer___refund_policy.pdf"
+                    href="https://www.sbmconference.org.nz/uploads/1/2/0/6/120656982/cancellation_transfer___refund_policy.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-secondary hover:text-accent underline"

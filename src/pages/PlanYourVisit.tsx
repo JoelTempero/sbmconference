@@ -213,7 +213,7 @@ export default function PlanYourVisit() {
                   <span>
                     Click here for travel options flying with{' '}
                     <a
-                      href="http://www.airnewzealand.co.nz/"
+                      href="https://www.airnewzealand.co.nz/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-secondary hover:text-accent underline"

@@ -23,7 +23,7 @@ export const navigation: NavItem[] = [
   { label: 'Contact', path: '/contact' },
 ]
 
-export const SITE_URL = 'http://www.sbmconference.org.nz'
+export const SITE_URL = 'https://www.sbmconference.org.nz'
 export const UPLOADS_BASE = `${SITE_URL}/uploads/1/2/0/6/120656982`
 
 export const images = {
