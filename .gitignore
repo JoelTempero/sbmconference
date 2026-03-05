@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+sbm-app
+CLAUDE-WebsiteInstructions.md
+Pages to scrape all data from.txt
 
 # Editor directories and files
 .vscode/*
